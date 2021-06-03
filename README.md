@@ -49,6 +49,30 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
       </a>
       <br>Visual Studio
     </td>
+     <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/mysql-original.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>MySql
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/sqlserver.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Sql Server
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/react-original.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/react-original.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>React Native
+    </td>
 </tr>
 </table>
 
