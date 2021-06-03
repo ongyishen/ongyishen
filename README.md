@@ -7,12 +7,14 @@
 
 If you like what I do and any of the project helped you reduce time to develop, maybe consider buying me a coffee/tea/kopi beng/teh beng/teh tarik :blush:
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <a href="https://www.buymeacoffee.com/ongyishen" 
 target="_blank">
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
 alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 <h2 align="left" id="ongyishen">Favorite Tech</h2>
 
