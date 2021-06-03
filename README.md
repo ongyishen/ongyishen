@@ -1,21 +1,22 @@
 ### Hello,folks <img src="https://github.com/ongyishen/ongyishen/blob/main/wave.gif" width="30px"> ! 
 #### My name is Yi Shen and I'm a .Net  / React Native FullStack Developer. I'm from Malaysia, living in Singapore. You can find me on below
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ongyishen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-shen-ong-b6576b96//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.amazcms.com)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/ongyishen_sg) 
+[<img src='./img/linked.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-shen-ong-b6576b96/) [<img src='./img/telegram.png' alt='telegram' height='40'>](https://t.me/ongyishen_sg) 
 
 
 
-If you like what I do and any of the project helped you reduce time to develop, maybe consider buying me a coffee/tea/kopi beng/teh beng/teh tarik
+If you like what I do and any of the project helped you reduce time to develop, maybe consider buying me a coffee/tea/kopi beng/teh beng/teh tarik :blush:
 
 <a href="https://www.buymeacoffee.com/ongyishen" 
 target="_blank">
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
 alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <h2 align="left" id="ongyishen">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
-> 
 
 <table>
 <tr>
