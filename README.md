@@ -1,5 +1,5 @@
 ### Hello,folks <img src="https://github.com/ongyishen/ongyishen/blob/main/wave.gif" width="30px"> ! 
-#### My name is Yi Shen and I'm a .Net  / React / React Native FullStack Developer. I'm from Malaysia, living in Singapore. 
+#### My name is Yi Shen and I'm a .Net Full Stack Web Developer / React Native App Developer. I'm from Malaysia, living in Singapore. 
 #### You can find me on below
 
 [<img src='./img/linked.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-shen-ong-b6576b96/) [<img src='./img/telegram.png' alt='telegram' height='40'>](https://t.me/ongyishen_sg) 
@@ -87,6 +87,12 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
         <img src="./img/aws.png" width="48" height="48" alt="C#" />
       </a>
       <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/angular.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>AngularJS
     </td>
 </tr>
 </table>
