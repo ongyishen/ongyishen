@@ -5,7 +5,7 @@
 
 
 
-If you like what I do, maybe consider buying me a coffee/tea/kopi beng/teh beng/teh tarik
+If you like what I do and any of the project helped you reduce time to develop, maybe consider buying me a coffee/tea/kopi beng/teh beng/teh tarik
 
 <a href="https://www.buymeacoffee.com/ongyishen" 
 target="_blank">
