@@ -12,7 +12,7 @@ target="_blank">
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
 alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="ongyishen">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 > 
@@ -24,6 +24,30 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/visual_code.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Visual Code
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/visual_studio.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Visual Studio
     </td>
 </tr>
 </table>
