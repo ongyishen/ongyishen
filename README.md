@@ -4,10 +4,7 @@
 [<img src='./img/linked.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-shen-ong-b6576b96/) [<img src='./img/telegram.png' alt='telegram' height='40'>](https://t.me/ongyishen_sg) 
 
 
-
 If you like what I do and any of the project helped you reduce time to develop, maybe consider buying me a coffee/tea/kopi beng/teh beng/teh tarik :blush:
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <a href="https://www.buymeacoffee.com/ongyishen" 
 target="_blank">
