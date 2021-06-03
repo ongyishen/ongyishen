@@ -27,18 +27,6 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
     </td>
     <td align="center" width="96">
       <a href="#ongyishen">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#ongyishen">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#ongyishen">
         <img src="./img/visual_code.png" width="48" height="48" alt="C#" />
       </a>
       <br>Visual Code
@@ -49,9 +37,22 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
       </a>
       <br>Visual Studio
     </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>Bootstrap
+    </td>
+    
      <td align="center" width="96">
       <a href="#ongyishen">
-        <img src="./img/mysql-original.png" width="48" height="48" alt="C#" />
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>MySql
     </td>
@@ -63,13 +64,13 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
     </td>
     <td align="center" width="96">
       <a href="#ongyishen">
-        <img src="./img/react-original.png" width="48" height="48" alt="C#" />
+        <img src="./img/react-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#ongyishen">
-        <img src="./img/react-original.png" width="48" height="48" alt="C#" />
+        <img src="./img/react-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>React Native
     </td>
