@@ -75,6 +75,20 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
       <br>ReactNative
     </td>
 </tr>
+<tr>
+ <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/firebase.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/aws.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>AWS
+    </td>
+</tr>
 </table>
 
 ## &#x1f4c8; GitHub Stats
