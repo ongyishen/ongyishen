@@ -106,6 +106,24 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
       </a>
       <br>Telerik
     </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/css.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/html.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/jquery.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>JQuery
+    </td>
 </tr>
 </table>
 
