@@ -168,6 +168,19 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
       </a>
       <br>ExpressJS
     </td>
+    </td>
+     <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/scale.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Scale
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/serialport.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>SerialPort
+    </td>
 </tr>
 </table>
 
