@@ -126,9 +126,47 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
     </td>
     <td align="center" width="96">
       <a href="#ongyishen">
-        <img src="./img/githubpage.png" width="48" height="48" alt="C#" />
+        <img src="./img/github.png" width="48" height="48" alt="C#" />
       </a>
       <br>GithubPages
+    </td>
+</tr>
+<tr>
+ <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/node.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>NodeJS
+    </td>
+     <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/postman.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/sqlite.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Sqlite
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/stackoverflow.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>StackOverflow
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/stackoverflow.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>VMWare
+    </td>
+     <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>ExpressJS
     </td>
 </tr>
 </table>
