@@ -5,7 +5,7 @@
 [<img src='./img/linked.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-shen-ong-b6576b96/) [<img src='./img/telegram.png' alt='telegram' height='40'>](https://t.me/ongyishen_sg) 
 
 
-- 💼 Any freelance work? Do reach, [email](mailto:ongyishen@yahoo.com) :blush:
+- 💼 &nbsp; Any freelance work? Do reach, [email](mailto:ongyishen@yahoo.com) :blush:
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1N8mKO1XZlXQve6s5WTX3EI4g-QDOBNXU/view?usp=sharing)
 
 
