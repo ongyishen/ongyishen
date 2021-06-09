@@ -5,6 +5,10 @@
 [<img src='./img/linked.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-shen-ong-b6576b96/) [<img src='./img/telegram.png' alt='telegram' height='40'>](https://t.me/ongyishen_sg) 
 
 
+- 💼 Any freelance work? Do reach, [email](mailto:ongyishen@yahoo.com) :blush:
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1N8mKO1XZlXQve6s5WTX3EI4g-QDOBNXU/view?usp=sharing)
+
+
 If you like what I do and any of the project helped you reduce time to develop, maybe consider buying me a coffee/tea/kopi beng/teh beng/teh tarik :blush:
 
 <a href="https://www.buymeacoffee.com/ongyishen" 
@@ -188,7 +192,34 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
       <br>PickToLight
     </td>
 </tr>
+<tr>
+<td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/expo.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Expo
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/pusher.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Pusher
+    </td>
+     <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/azure.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>DevOps
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/ngrok.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Ngrok
+    </td>
+</tr>
 </table>
+
 
 ## &#x1f4c8; GitHub Stats
 
