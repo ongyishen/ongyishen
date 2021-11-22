@@ -11,7 +11,6 @@
 
 
 Get your **free** Apple Stock when sign up & deposit to Tiger Brokers 
-
 [ClickHere](https://www.tigerbrokers.com.sg/activity/forapp/invitflow-intl/signup.html?template=invite202011&lang=en_US&invite=E9WV2L)
 
 If you like what I do and any of the project helped you reduce time to develop, maybe consider buying me a coffee/tea/kopi beng/teh beng/teh tarik :blush:
