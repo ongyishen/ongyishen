@@ -232,13 +232,6 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 
 ![Profile views](https://komarev.com/ghpvc/?username=ongyishen)
 
-<a href="https://github.com/MartinHeinz/ongyishen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongyishen&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a><a href="https://github.com/ongyishen/ongyishen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ongyishen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="OngYiShen's GitHub Stats" />
-</a>
-
-
 <h3 align="center">  
   <img src="./img/banner.png" >
 </h3>
