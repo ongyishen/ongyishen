@@ -227,6 +227,12 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
       </a>
       <br>Ngrok
     </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/open-ai-seeklogo.com.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>OpenAI
+    </td>
 </tr>
 </table>
 
