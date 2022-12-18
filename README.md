@@ -1,7 +1,7 @@
 ### Hello,folks <img src="https://github.com/ongyishen/ongyishen/blob/main/wave.gif" width="30px"> ! 
 #### My name is Yi Shen and I'm a .Net Full Stack Web Developer / Winform Developer / React Native App Developer. I'm from Malaysia, living in Singapore. 
 <a href="#">
-		<img src="[https://awesome.re/badge-flat2.svg](https://img.shields.io/badge/VisualStudio-2022-blueviolet?logo=visualstudio)" alt="Awesome">
+		<img src="https://img.shields.io/badge/VisualStudio-2022-blueviolet?logo=visualstudio" alt="VisualStudio2022">
 	</a>
 #### You can find me on below
 
