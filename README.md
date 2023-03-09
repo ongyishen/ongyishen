@@ -5,7 +5,7 @@
 
 #### You can find me on below
 
-[<img src='./img/linked.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-shen-ong-b6576b96/) [<img src='./img/telegram.png' alt='telegram' height='40'>](https://t.me/cs4ufreelance) 
+[<img src='./img/linked.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-shen-ong-b6576b96/) [<img src='./img/telegram.png' alt='telegram' height='40'>](https://t.me/cs4ufreelance) [<img src='./img/fiverr.png' alt='fiverr' height='40'>](https://www.fiverr.com/codingstudio88) 
 
 
 - 💼 &nbsp; Any freelance work? Do reach, [email](mailto:ongyishen@yahoo.com) :blush:
