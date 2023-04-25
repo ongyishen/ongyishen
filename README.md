@@ -234,7 +234,7 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
     </td>
 </tr>
 </table>
-<img src="./img/octocat-1682438359051.png" width="512" height="640" alt="myOcta" />
+<img src="./img/octocat-1682438359051.png" width="512" height="512" alt="myOcta" />
 
 ## &#x1f4c8; GitHub Stats
 
