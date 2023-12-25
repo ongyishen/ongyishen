@@ -232,6 +232,24 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
       </a>
       <br>OpenAI
     </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/python.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/streamlit.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Streamlit
+    </td>
+    <td align="center" width="96">
+      <a href="#ongyishen">
+        <img src="./img/llama.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Llama2
+    </td>
 </tr>
 </table>
 <img src="./img/octocat-1682438359051.png" width="512" height="512" alt="myOcta" />
